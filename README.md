@@ -21,7 +21,7 @@ class ABD2k:
             
         }
 if __name__ == '__main__':
-    entrevista = ABD2k().miCurriculum
+    print(ABD2k().miCurriculum)
 ```
 
 
